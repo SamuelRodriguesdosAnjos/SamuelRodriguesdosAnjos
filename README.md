@@ -143,10 +143,20 @@
 
 
 <p align="center">
-    <a href="https://linkedin.com/in/samuel-rodrigues-dos-anjos-a13b5938" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/samuel-rodrigues-dos-anjos-a13b5938" target="blank">
+        <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="samuel-rodrigues-dos-anjos-a13b5938" height="30" width="40" /></a>
-    <a href="https://medium.com/@samuelrodriguesdosanjos" target="blank"><img align="center"
+            alt="samuel-rodrigues-dos-anjos-a13b5938" height="30" width="40" />
+    </a>
+    <a href="https://medium.com/@samuelrodriguesdosanjos" target="blank">
+        <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="@samuelrodriguesdosanjos" height="30" width="40" /></a>
+            alt="@samuelrodriguesdosanjos" height="30" width="40" />
+    </a>
+    <a href="https://medium.com/@samuelrodriguesdosanjos](https://social.msdn.microsoft.com/profile/samuel%20rodrigues%20dos%20anjos" target="blank">
+        <img align="center"
+            src="https://i1.social.s-msft.com/Profile/GlobalResources/images/Msdn/favicon.ico"
+            alt="samuel rodrigues dos anjos" height="30" width="40" />
+    </a>
+    
 </p>
