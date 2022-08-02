@@ -3,7 +3,7 @@
     Apaixonado pelo mundo de software, gosto de buscar novos desafios diariamente, sempre me aprimorando
     profissionalmente. A minha experiência é aproximadamente um pouco mais de 14 anos nas áreas de desenvolvimento de
     software, e arquitetura de sistemas. Hoje o meu trabalho é bastante voltado para soluções Microsoft, mas sempre
-    procuro ficar antenado em assuntos diversos de tecnologias. Gosto de participar da comunidade, indo em palestras e
+    procuro ficar antenado em assuntos diversos de tecnologia. Gosto de participar da comunidade, indo em palestras e
     eventos de diversos grupos de tecnologia. Atualmente presto consultoria para as empresas como arquiteto de soluções,
     arquiteto de software e desenvolvedor full stack.
 </h3>
