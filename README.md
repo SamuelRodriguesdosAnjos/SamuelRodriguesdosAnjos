@@ -141,6 +141,7 @@
             alt="webpack" width="40" height="40" /> </a>
 </p>
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/samuelrodriguesdosanjos/readme-io)
 
 <p align="center">
     <a href="https://linkedin.com/in/samuel-rodrigues-dos-anjos-a13b5938" target="blank">
